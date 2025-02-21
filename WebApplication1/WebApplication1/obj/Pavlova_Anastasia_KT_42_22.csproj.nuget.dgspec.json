@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\Pavlova_Anastasia_KT_42_22.csproj": {}
   },
   "projects": {
-    "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\Pavlova_Anastasia_KT_42_22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\Pavlova_Anastasia_KT_42_22.csproj",
+        "projectName": "Pavlova_Anastasia_KT_42_22",
+        "projectPath": "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\Pavlova_Anastasia_KT_42_22.csproj",
         "packagesPath": "C:\\Users\\j-classroom\\.nuget\\packages\\",
         "outputPath": "D:\\ПавловаАС\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
