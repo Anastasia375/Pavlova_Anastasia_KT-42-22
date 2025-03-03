@@ -1,4 +1,4 @@
-namespace WebApplication1
+namespace Pavlova_Anastasia_KT_42_22
 {
     public class WeatherForecast
     {
