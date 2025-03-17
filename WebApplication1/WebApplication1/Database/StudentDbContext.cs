@@ -16,7 +16,7 @@ namespace Pavlova_Anastasia_KT_42_22
             modelBuilder.ApplyConfiguration(new StudentConfiguration());
             modelBuilder.ApplyConfiguration(new GroupConfiguration());
         }
-        public StudentDbcontext(DbContextOptions<StudentDbcontext> options)
+        public StudentDbcontext(DbContextOptions<StudentDbcontext> options) : base(options)
         {
            
         }
