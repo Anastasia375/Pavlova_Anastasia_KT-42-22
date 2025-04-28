@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pavlova_Anastasia_KT_42_22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e316de1c9e9ff95ae5639b7c723a9ed50aa9d73f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pavlova_Anastasia_KT_42_22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pavlova_Anastasia_KT_42_22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
